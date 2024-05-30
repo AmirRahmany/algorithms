@@ -1,6 +1,6 @@
-## Recursive Algorithm
+# Recursive Algorithm
 ### Recursion: is when function calls itself
-* Every recursive function has two cases: the <b>base case<b> and the <b>recursive case<b>.
+* Every recursive function has two cases: the <b>base case</b> and the <b>recursive case</b>.
 * All function calls go onto the call stack
 * The call stack can get very large. which take up a lot of memory
 ---
